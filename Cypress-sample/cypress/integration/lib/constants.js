@@ -1,0 +1,1 @@
+exports.appUrl = "https://www.demoblaze.com/index.html"

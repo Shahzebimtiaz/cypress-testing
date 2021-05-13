@@ -1,0 +1,6 @@
+{
+    "homeHref": "index.html",
+    "dialogHref": "#",
+    "cartHref": "cart.html",
+    "postHref": "prod.html?idp_=1"
+}
